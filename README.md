@@ -1,11 +1,11 @@
 ## Hi there 👋<h1 align="center">Hi 👋, I'm Bryan</h1>
-<h3 align="center">A passionate frontend developer, Wordpress Developer and Administration From Indonesia</h3>
+<h3 align="center">A passionate Software Engineer and Administration From Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bryanotista15&label=Profile%20views&color=0e75b6&style=flat" alt="bryanotista15" /> </p>
 
 - 🌱 I’m currently learning **PHP,HTML,CSS,Javascript,Python,C++,Typescript and (CMS) Wordpress**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-bryanotistaa.vercel.app/](https://portfolio-bryanotistaa.vercel.app/)
+- 👨‍💻 All of my projects are available at (https://portofolio-bryan.lovable.app)
 
 - 📫 How to reach me **natalinomarulituamanuelbryan@gmail.com**
 
