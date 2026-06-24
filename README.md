@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PHP,HTML,CSS,Javascript,Python,C++,Typescript and (CMS) Wordpress**
 
-- 👨‍💻 All of my projects are available at (https://portofolio-bryan.lovable.app)
+- 👨‍💻 All of my projects are available at (https://bryanotista.lovable.app)
 
 - 📫 How to reach me **natalinomarulituamanuelbryan@gmail.com**
 
