@@ -1,5 +1,5 @@
 ## Hi there 👋<h1 align="center">Hi 👋, I'm Bryan</h1>
-<h3 align="center">A passionate Software Engineer, Cyber Security, Administration From Indonesia</h3>
+<h3 align="center">A passionate Software Engineer, Cyber Security, Data Analyst, Data Scientist, Human Resources Information System, Administration From Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bryanotista15&label=Profile%20views&color=0e75b6&style=flat" alt="bryanotista15" /> </p>
 
